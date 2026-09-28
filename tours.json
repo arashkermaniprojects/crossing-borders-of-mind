@@ -1,0 +1,218 @@
+{
+ "start": [
+  {
+   "target": "start-rare",
+   "title": "The rarest state",
+   "text": "Ask a scientist how often they are at their best, fully absorbed and learning fast, and the answer is rarely every day. Peak states come a few times a season. As artificial intelligence takes over routine thinking, what is left for people is the hardest part: framing problems, judging machine output, and learning fields that do not exist yet. The rare state would need to become the ordinary one. This review asks whether that is possible.",
+   "audio": "audio/start-01.mp3"
+  },
+  {
+   "target": "start-why",
+   "title": "Why now, and why caution",
+   "text": "Three things make the question newly answerable. There are now randomized trials of AI tutors. Stimulation can reach deep memory structures without surgery. And implants restore speech in real time. But the history of enhancement is full of promises that failed careful trials: brain training that did not raise intelligence, smart drugs that bought effort rather than better thinking, and exercise effects that shrink once bias is corrected.",
+   "audio": "audio/start-02.mp3"
+  },
+  {
+   "target": "start-remainder",
+   "title": "The remainder test",
+   "text": "So we ask every method one question. What remains when the tool is taken away? A crutch lifts performance only while it is there. A scaffold leaves the learner stronger. We call this the remainder test, and we apply it all the way through.",
+   "audio": "audio/start-03.mp3"
+  },
+  {
+   "target": "start-borders",
+   "title": "Seven borders, five levels",
+   "text": "The review is organized around seven borders of the learning mind. Intake, forgetting and transfer lie along the path knowledge travels. Attention governs the learner. Plasticity and time are set by biology. And the skull is the boundary that AI partners and brain-computer interfaces try to cross. For each border, we climb five levels, from behavior, to digital tools, to non-invasive stimulation, to drugs and biology, and finally to surgery, cells and genes.",
+   "audio": "audio/start-04.mp3"
+  },
+  {
+   "target": "start-peak",
+   "title": "Peak is timing",
+   "text": "One more idea before we begin. Peak cognition is not maximal activity. The brain alternates between taking in the world and retrieving memories, each favored at a different moment of a wave that sweeps the cortex every few seconds. Flow, too, depends on balance rather than effort. Peak performance is the right state at the right time. That lesson will return again and again.",
+   "audio": "audio/start-05.mp3"
+  }
+ ],
+ "intake": [
+  {
+   "target": "intake-l0",
+   "title": "The oldest methods",
+   "text": "The first border is intake, how fast new knowledge gets in. Its surprise is that it yields to effort, not ease. Spacing study over time, and retrieving from memory instead of rereading, feel harder, so learners avoid them. Yet in medical education, spaced repetition beat standard study with a large effect across more than twenty thousand learners. And simply rewarding each day of practice, instead of each question, got students to space their practice and raised exam scores, most for those who were struggling.",
+   "audio": "audio/intake-01.mp3"
+  },
+  {
+   "target": "intake-ai",
+   "title": "The crutch",
+   "text": "Now AI. When nearly a thousand high-school students practiced math with GPT four, their practice grades went up. But when the AI was taken away, students who had used the plain chat interface scored seventeen percent lower than students who never had it. They had used it as a crutch. A version designed to guide rather than tell raised practice even more, and largely avoided the harm.",
+   "audio": "audio/intake-02.mp3"
+  },
+  {
+   "target": "intake-scaffold",
+   "title": "The scaffold",
+   "text": "Built as a scaffold, the same technology accelerates learning. In university physics, a tutor designed on learning principles more than doubled learning gains compared with an active classroom. A structured tutor in a finance course lifted integrative reasoning far more than consumer AI. The principle is simple: AI helps when it makes the learner think, and harms when it thinks for the learner.",
+   "audio": "audio/intake-03.mp3"
+  },
+  {
+   "target": "intake-stim",
+   "title": "Learning under stimulation",
+   "text": "Moving up the ladder, stimulation is now applied during real learning. Random noise stimulation helped mainly people with a particular brain profile, so any future here is personalized. Vagus nerve stimulation through the skin of the neck sped up vocabulary learning in professional linguists, and the gains lasted a day after the current was switched off.",
+   "audio": "audio/intake-04.mp3"
+  },
+  {
+   "target": "intake-deep",
+   "title": "Reaching deep",
+   "text": "Two new methods reach deep memory structures without surgery. Temporal interference crosses two fields so they act only where they meet, and in people it steered stimulation to the hippocampus and improved memory accuracy. Focused ultrasound aimed at the brain's hub for meaning improved semantic memory. But oscillating currents are inconsistent: one study helped recognition, another added nothing to training in older adults.",
+   "audio": "audio/intake-05.mp3"
+  },
+  {
+   "target": "intake-implant",
+   "title": "Writing memory, and the verdict",
+   "text": "At the top of the ladder, electrodes already implanted in epilepsy patients have been used to write the hippocampus's own code back into it, improving short-term memory by about a third. Content specific patterns changed memory in some cases, mostly for the better. The verdict for intake: the border has moved most at the bottom of the ladder. Learning science and scaffolding AI pass the remainder test. The rest is promising, personal, and unreplicated.",
+   "audio": "audio/intake-06.mp3"
+  }
+ ],
+ "attention": [
+  {
+   "target": "attn-l0",
+   "title": "Protect before boosting",
+   "text": "The second border is attention, the gatekeeper of learning. Its first lesson is humbling: attention is far easier to lose than to force. Sleep loss damages working memory, inhibition and flexibility with medium to large effects, which dwarfs the benefit of any enhancer in this review. Mindfulness is the best evidenced way to train attention, with modest but real gains even against active controls.",
+   "audio": "audio/attention-01.mp3"
+  },
+  {
+   "target": "attn-nf",
+   "title": "Neurofeedback",
+   "text": "Neurofeedback promises to let you train your own brain signals. Overall it shows a small benefit, but in trials with sham feedback, the benefit disappears. It seems to come from expectation and engagement, not the feedback itself.",
+   "audio": "audio/attention-02.mp3"
+  },
+  {
+   "target": "attn-stim",
+   "title": "A replication reckoning",
+   "text": "Brain stimulation is in the middle of a replication reckoning. Early meta analyses of alternating current stimulation looked promising, but for working memory in healthy adults, the effect falls to zero after correcting for publication bias. Common magnetic protocols were unreliable against sham. One method stands out: stimulating the vagus nerve through the ear shows a moderate, consistent benefit, largest for executive function and flexible learning.",
+   "audio": "audio/attention-03.mp3"
+  },
+  {
+   "target": "attn-drugs",
+   "title": "More effort, not better thought",
+   "text": "And drugs? In rested adults, modafinil and methylphenidate help only a little. On complex planning problems, stimulants made people work longer, but their solutions got worse. They bought effort, not thought. The verdict: protect attention with sleep and practice; treat stimulation claims with care, with one promising exception; and do not expect pills to make you think better.",
+   "audio": "audio/attention-04.mp3"
+  }
+ ],
+ "forgetting": [
+  {
+   "target": "forg-rhythm",
+   "title": "A timed program",
+   "text": "The third border is forgetting. Much of learning happens after study ends, during sleep. Three rhythms must line up: slow waves, spindles riding their peaks, and ripples from the hippocampus that carry the replay of the day. Recordings inside the human brain show that these spindle-locked ripples mark the moments when memories are reactivated.",
+   "audio": "audio/forgetting-01.mp3"
+  },
+  {
+   "target": "forg-work",
+   "title": "Timing is the mechanism",
+   "text": "Every intervention that works here works with that timing. Replaying a sound from learning during sleep can strengthen memories. The clearest proof came from patients with implanted electrodes: stimulation locked to their slow waves improved memory, while exactly the same stimulation at the wrong moments did not help, and sometimes hurt. Timing is not a detail. It is the mechanism. The verdict: protect sleep now, and expect precise, personalized sleep support within a decade. Learning new subjects while asleep is not on the horizon.",
+   "audio": "audio/forgetting-02.mp3"
+  }
+ ],
+ "plasticity": [
+  {
+   "target": "plas-path",
+   "title": "Reopening the windows",
+   "text": "Borders four and five are set by biology. Adults learn some things more slowly because critical periods close. In mice, psychedelics reopened one of these windows, for about as long as each drug's effects last in people. They act through the receptor for a growth factor called BDNF, separately from the receptor that causes hallucinations, so in principle plasticity and the trip can be separated.",
+   "audio": "audio/plasticity-01.mp3"
+  },
+  {
+   "target": "plas-human",
+   "title": "The human gap",
+   "text": "In people, the story so far is dramatic brain effects without cognitive gains. Psilocybin scrambles brain networks for weeks, but microdosing trials show no benefit over placebo. And in mice, editing the epigenetic switch of a single gene turned a memory on and off. Nothing like that exists in humans.",
+   "audio": "audio/plasticity-02.mp3"
+  },
+  {
+   "target": "time-life",
+   "title": "Keeping the brain",
+   "text": "Time is the other biological border. Exercise helps cognition across ages, but in healthy adults the effect shrinks close to zero once bias is corrected. Education and continued learning build the reserve that protects against dementia.",
+   "audio": "audio/plasticity-03.mp3"
+  },
+  {
+   "target": "time-glp1",
+   "title": "A cautionary tale",
+   "text": "Here is the cautionary tale. In over a million health records, a diabetes drug called semaglutide was linked to a much lower risk of Alzheimer's. Then two large randomized trials found it did not slow decline. Observation is not proof. Meanwhile, stem cell grafts that replace lost neurons are now a clinical reality, for restoration.",
+   "audio": "audio/plasticity-04.mp3"
+  }
+ ],
+ "skull": [
+  {
+   "target": "skull-ai",
+   "title": "AI as a partner",
+   "text": "The sixth border is the skull itself. Humans have always extended their minds with tools, and AI is the most powerful such tool yet. The danger is that extension becomes replacement. In one small EEG study, people who wrote with a chatbot showed the weakest brain connectivity and could barely quote their own essays. Surveys point the same way: heavy reliance on AI goes with less critical thinking.",
+   "audio": "audio/skull-01.mp3"
+  },
+  {
+   "target": "skull-bci",
+   "title": "Opening the skull",
+   "text": "Implanted brain-computer interfaces have advanced faster than anything else in this review. A man with ALS spoke again through two hundred and fifty six electrodes, with ninety seven and a half percent accuracy over a vocabulary of a hundred and twenty five thousand words, in his own synthesized voice. Newer systems stream speech almost instantly and can even sing. Yet only about eighty people have ever used such implants, and every system restores. None enhances.",
+   "audio": "audio/skull-02.mp3"
+  }
+ ],
+ "transfer": [
+  {
+   "target": "tr-null",
+   "title": "The border that matters most",
+   "text": "We saved the hardest border for last: transfer. The reason for this whole review, preparing people to learn sciences that do not exist yet, is a question of far transfer. And the evidence is sobering. Working memory training improves similar tasks, but not reasoning, reading or arithmetic. Brain training and the bilingual advantage both shrink to zero once publication bias is corrected.",
+   "audio": "audio/transfer-01.mp3"
+  },
+  {
+   "target": "tr-leads",
+   "title": "Leads that keep the door ajar",
+   "text": "Three leads keep the door ajar. Bilingualism may make attention more efficient. Music training helps children's self control. And action video games seem to speed up the learning of new tasks, a kind of learning to learn. What transfers may not be knowledge, but the efficiency of attention and the speed of learning itself.",
+   "audio": "audio/transfer-02.mp3"
+  },
+  {
+   "target": "tr-shrink",
+   "title": "Discipline",
+   "text": "This is also where optimism needs the most discipline. As studies get stricter, effects shrink. No stimulation, drug or implant in this review has shown transfer to a truly new domain. That is the central open problem.",
+   "audio": "audio/transfer-03.mp3"
+  }
+ ],
+ "stand": [
+  {
+   "target": "stand-ledger",
+   "title": "The ledger",
+   "text": "Now we take stock. Laid side by side, the pooled effects tell a clear story. The largest and most precise gains come from behavior and well designed digital tools, like spaced repetition. Among brain stimulation methods, only ear-based vagus nerve stimulation shows a moderate, precise effect. And drugs in healthy adults help only a little.",
+   "audio": "audio/stand-01.mp3"
+  },
+  {
+   "target": "stand-ready",
+   "title": "Readiness",
+   "text": "Effect size is not readiness, so we rate each approach on five separate dimensions: efficacy, transfer, safety, feasibility, and governance. Read column by column, the table says: benefit does not rise with invasiveness; transfer is weak everywhere; restoration leads enhancement by a decade or more; and readiness is social as well as technical.",
+   "audio": "audio/stand-02.mp3"
+  }
+ ],
+ "next": [
+  {
+   "target": "next-edu",
+   "title": "For teachers",
+   "text": "What should educators do with this? Make effort the default, by designing courses that reward spaced practice. Choose AI that scaffolds rather than crutches. Assess what remains, with delayed and unassisted tests. And protect sleep, because its cost is larger than the benefit of any enhancer.",
+   "audio": "audio/next-01.mp3"
+  },
+  {
+   "target": "next-rights",
+   "title": "Rights",
+   "text": "Treat neuro products with informed caution, and remember that brain data may reveal mental states. Rights to mental privacy are now being written into law, from Chile's Supreme Court to American state laws and a UNESCO recommendation.",
+   "audio": "audio/next-02.mp3"
+  },
+  {
+   "target": "next-road",
+   "title": "What comes next",
+   "text": "Looking ahead: until twenty thirty, convergence of learning science, sleep, and scaffolding AI. From twenty thirty, personalized stimulation, but only if replication allows. Beyond twenty thirty five, implants and genes will serve restoration long before enhancement.",
+   "audio": "audio/next-03.mp3"
+  },
+  {
+   "target": "next-exp",
+   "title": "The experiment",
+   "text": "The field needs one experiment above all: people learn something genuinely new, every tool is withdrawn, and after a delay we measure what remains, including transfer to new problems.",
+   "audio": "audio/next-04.mp3"
+  },
+  {
+   "target": "next-end",
+   "title": "The mind we can build",
+   "text": "So, can the rare peak state become ordinary? A qualified yes, but not by force. Effort beats ease. Timing beats force. And the remainder is what counts. The learner of the next decade is not a cyborg, but a well-rested, disciplined person, working with a tutor that asks rather than tells. One border remains almost untouched: transfer into the unknown. Crossing it is the task ahead.",
+   "audio": "audio/next-05.mp3"
+  }
+ ]
+}
