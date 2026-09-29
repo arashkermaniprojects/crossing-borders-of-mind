@@ -210,3 +210,7 @@ table.ready{border-collapse:collapse;width:100%;font-size:14.5px;min-width:680px
 .lightbox p{color:#e8e8e8;max-width:900px;font-size:15px;text-align:center}
 .lightbox p a{color:#b9c0ff}
 .lb-close{position:absolute;top:14px;right:18px;font-size:22px;background:none;border:0;color:#fff;cursor:pointer}
+
+.brand .byline{margin-top:10px;font-size:13px;color:var(--ink2);line-height:1.35}
+.author{margin:10px 0 0;color:var(--ink2);font-size:16px}
+@media (max-width:900px){.brand .byline{display:none}}
